@@ -16,7 +16,7 @@ In order to participate in this exercise you will need...
 
 
 ## Step 1
-Clone this repository to your local machine using `git clone`
+Clone this repository to your local machine using `git clone https://github.com/Bijesse/fibonacci-java-otel.git`
 
 ## Step 2 
 Navigate into the directory you just created and export your New Relic ingest license key using the command below. Note: be sure to update the command to include your ingest license key.
